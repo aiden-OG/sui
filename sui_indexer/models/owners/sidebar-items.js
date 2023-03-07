@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["OwnerChangeType","OwnerType"],"struct":["OwnerChange","OwnerIndex"]};

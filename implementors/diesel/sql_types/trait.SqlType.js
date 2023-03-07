@@ -1,0 +1,3 @@
+(function() {var implementors = {
+"sui_indexer":[["impl SqlType for <a class=\"struct\" href=\"sui_indexer/schema/sql_types/struct.OwnerType.html\" title=\"struct sui_indexer::schema::sql_types::OwnerType\">OwnerType</a>"],["impl SqlType for <a class=\"struct\" href=\"sui_indexer/schema/sql_types/struct.OwnerChangeType.html\" title=\"struct sui_indexer::schema::sql_types::OwnerChangeType\">OwnerChangeType</a>"]]
+};if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()
